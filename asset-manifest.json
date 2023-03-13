@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cretics-noughts/static/css/main.22941023.css",
-    "main.js": "/cretics-noughts/static/js/main.47d03e17.js",
+    "main.css": "/cretics-noughts/static/css/main.059ccfd4.css",
+    "main.js": "/cretics-noughts/static/js/main.a4aba3f0.js",
     "index.html": "/cretics-noughts/index.html",
-    "main.22941023.css.map": "/cretics-noughts/static/css/main.22941023.css.map",
-    "main.47d03e17.js.map": "/cretics-noughts/static/js/main.47d03e17.js.map"
+    "main.059ccfd4.css.map": "/cretics-noughts/static/css/main.059ccfd4.css.map",
+    "main.a4aba3f0.js.map": "/cretics-noughts/static/js/main.a4aba3f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.22941023.css",
-    "static/js/main.47d03e17.js"
+    "static/css/main.059ccfd4.css",
+    "static/js/main.a4aba3f0.js"
   ]
 }
